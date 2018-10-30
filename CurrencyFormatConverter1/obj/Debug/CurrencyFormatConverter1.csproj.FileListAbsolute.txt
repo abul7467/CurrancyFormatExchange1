@@ -1,0 +1,6 @@
+C:\Users\Abul\source\repos\CurrencyFormatConverter1\CurrencyFormatConverter1\bin\Debug\CurrencyFormatConverter1.exe.config
+C:\Users\Abul\source\repos\CurrencyFormatConverter1\CurrencyFormatConverter1\bin\Debug\CurrencyFormatConverter1.exe
+C:\Users\Abul\source\repos\CurrencyFormatConverter1\CurrencyFormatConverter1\bin\Debug\CurrencyFormatConverter1.pdb
+C:\Users\Abul\source\repos\CurrencyFormatConverter1\CurrencyFormatConverter1\obj\Debug\CurrencyFormatConverter1.csproj.CoreCompileInputs.cache
+C:\Users\Abul\source\repos\CurrencyFormatConverter1\CurrencyFormatConverter1\obj\Debug\CurrencyFormatConverter1.exe
+C:\Users\Abul\source\repos\CurrencyFormatConverter1\CurrencyFormatConverter1\obj\Debug\CurrencyFormatConverter1.pdb
